@@ -1,7 +1,5 @@
 
 
-// File: Simulation of waiting queue
-
 #include <iostream> // For cout
 #include <cstdlib> // For rand and srand
 #include <time.h> // For time in srand
